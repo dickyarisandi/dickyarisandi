@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, Dicky's here 👋
 
-<!--
-**dickyarisandi/dickyarisandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✉️ Contact:  
+- 🤵 [LinkedIn](https://www.linkedin.com/in/dickyarishm/)
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=go,php,js,nodejs,ts,expressjs,mongo,postgres,mysql,redis,docker,cloudflare&theme=dark">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics
+![dickyarisandi's Stats](https://github-readme-stats.vercel.app/api?username=dickyarisandi&theme=radical&show_icons=true&hide_border=false&count_private=false)<br>
+![dickyarisandi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dickyarisandi&theme=radical&hide_border=false)<br>
+![dickyarisandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dickyarisandi&theme=radical&show_icons=true&hide_border=false&layout=compact)
